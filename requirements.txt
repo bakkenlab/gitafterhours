@@ -1,1 +1,5 @@
 jproperties
+requests
+python-dateutil
+flask
+flask_restful
