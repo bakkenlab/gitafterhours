@@ -22,8 +22,3 @@ def get_commits_in_range(date_from, date_to):
 
     return commit_arr
 
-
-if __name__ == '__main__':
-    dates = get_commits_in_range(9, 17)
-    print(dates)
-
